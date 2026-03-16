@@ -48,6 +48,6 @@ npm run deploy
 ### Для получения списка тоааров может потребоваться VPN
 ```bash
 
-https://arvik1982.github.io/products-table/
+https://arvik1982.github.io/ProductsReactTable/
 
 ```
